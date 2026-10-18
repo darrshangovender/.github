@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/darrshangovender/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not as a public issue.
+  - name: Commercial enquiries
+    url: https://agulhascode.co.za
+    about: Integration work, pilots, and architecture reviews via Agulhas Code.
